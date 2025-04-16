@@ -947,3 +947,247 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.04.16-11.20.15:900][961]LogFileHelpers: Loading map 'Template_Default' took 0.022
 [2025.04.16-11.20.18:331][103]LogSlate: Window '项目设置' being destroyed
 [2025.04.16-11.20.18:336][103]LogSlate: Window '项目设置' being destroyed
+[2025.04.16-11.32.03:145][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2025.04.16-11.36.04:216][641]LogSlate: Window '新建关卡' being destroyed
+[2025.04.16-11.36.04:224][641]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.16-11.36.04:248][641]LightingResults: New page: 光照构建
+[2025.04.16-11.36.04:248][641]LoadErrors: New page: 正在加载地图：Template_Default.umap
+[2025.04.16-11.36.04:254][641]LogWorld: UWorld::CleanupWorld for Template_Default, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-11.36.04:255][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-11.36.04:255][641]MapCheck: New page: 地图检测
+[2025.04.16-11.36.04:255][641]LightingResults: New page: 光照构建
+[2025.04.16-11.36.04:259][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.16-11.36.04:262][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.16-11.36.04:270][641]LogTexture: Display: 正在编译纹理：DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89（BGRA8、128X128）
+[2025.04.16-11.36.04:273][641]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.04.16-11.36.04:274][641]LogAIModule: Creating AISystem for world Untitled_2
+[2025.04.16-11.36.04:276][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.16-11.36.04:282][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.16-11.36.04:293][641]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.16-11.36.04:293][641]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.09毫秒。
+[2025.04.16-11.36.04:293][641]LogFileHelpers: Loading map 'Template_Default' took 0.070
+[2025.04.16-11.36.15:287][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2025.04.16-11.36.15:395][296]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.04.16-11.36.15:679][312]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2025.04.16-11.36.15:782][318]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2025.04.16-11.36.17:557][423]Cmd: DELETE
+[2025.04.16-11.36.17:557][423]Cmd: ACTOR DELETE
+[2025.04.16-11.36.17:568][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.16-11.36.17:573][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.16-11.36.17:575][423]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.04.16-11.36.24:318][607]LogSlate: Window '新建关卡' being destroyed
+[2025.04.16-11.36.30:373][607]LogSlate: Window '保存内容' being destroyed
+[2025.04.16-11.36.30:380][607]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.16-11.36.30:397][607]LightingResults: New page: 光照构建
+[2025.04.16-11.36.30:397][607]LoadErrors: New page: 正在加载地图：Template_Default.umap
+[2025.04.16-11.36.30:398][607]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-11.36.30:398][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-11.36.30:398][607]MapCheck: New page: 地图检测
+[2025.04.16-11.36.30:398][607]LightingResults: New page: 光照构建
+[2025.04.16-11.36.30:403][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.16-11.36.30:404][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.16-11.36.30:417][607]LogTexture: Display: 正在编译纹理：DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89（BGRA8、128X128）
+[2025.04.16-11.36.30:420][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2025.04.16-11.36.30:421][607]LogAIModule: Creating AISystem for world Untitled_3
+[2025.04.16-11.36.30:423][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.16-11.36.30:428][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.16-11.36.30:436][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.16-11.36.30:436][607]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.117毫秒。
+[2025.04.16-11.36.30:436][607]LogFileHelpers: Loading map 'Template_Default' took 0.056
+[2025.04.16-11.37.05:880][ 86]LogSlate: Window '新建关卡' being destroyed
+[2025.04.16-11.37.05:887][ 86]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.16-11.37.05:906][ 86]LightingResults: New page: 光照构建
+[2025.04.16-11.37.05:906][ 86]LoadErrors: New page: 正在加载地图：Template_Default.umap
+[2025.04.16-11.37.05:908][ 86]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-11.37.05:908][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-11.37.05:908][ 86]MapCheck: New page: 地图检测
+[2025.04.16-11.37.05:908][ 86]LightingResults: New page: 光照构建
+[2025.04.16-11.37.05:912][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.16-11.37.05:913][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.16-11.37.05:921][ 86]LogTexture: Display: 正在编译纹理：DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89（BGRA8、128X128）
+[2025.04.16-11.37.05:922][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_4'.
+[2025.04.16-11.37.05:924][ 86]LogAIModule: Creating AISystem for world Untitled_4
+[2025.04.16-11.37.05:927][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.16-11.37.05:932][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.16-11.37.05:962][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.16-11.37.05:962][ 86]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.135毫秒。
+[2025.04.16-11.37.05:962][ 86]LogFileHelpers: Loading map 'Template_Default' took 0.075
+[2025.04.16-11.37.07:615][182]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.16-11.37.36:376][182]LogSlate: Window '将关卡另存为' being destroyed
+[2025.04.16-11.37.36:414][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_entry" FILE="../../../../../ue/Zhanqi/Content/Maps/L_entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.16-11.37.36:420][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.16-11.37.36:437][182]LogSavePackage: Moving '../../../../../ue/Zhanqi/Saved/L_entry5460D5664079CF083F7329B387663F3E.tmp' to '../../../../../ue/Zhanqi/Content/Maps/L_entry.umap'
+[2025.04.16-11.37.36:443][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_entry_BuiltData" FILE="../../../../../ue/Zhanqi/Content/Maps/L_entry_BuiltData.uasset" SILENT=true
+[2025.04.16-11.37.36:459][182]LogSavePackage: Moving '../../../../../ue/Zhanqi/Saved/L_entry_BuiltData79FFE4FD45DBB7AFE39BECBCF2E2CF9B.tmp' to '../../../../../ue/Zhanqi/Content/Maps/L_entry_BuiltData.uasset'
+[2025.04.16-11.37.36:473][182]LogFileHelpers: Saving map 'L_entry' took 0.088
+[2025.04.16-11.37.36:476][182]AssetCheck: New page: 资产保存：多个资产
+[2025.04.16-11.37.36:476][182]LogContentValidation: Display: 正在验证World /Game/Maps/L_entry.L_entry
+[2025.04.16-11.37.36:476][182]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/L_entry_BuiltData.L_entry_BuiltData
+[2025.04.16-11.40.56:853][242]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2025.04.16-11.41.06:024][776]LogSlate: Window '项目设置' being destroyed
+[2025.04.16-11.41.06:030][776]LogSlate: Window '项目设置' being destroyed
+[2025.04.16-11.44.17:321][470]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 0 (No error)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d1f85feb0 [can pipeline])
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (Re-using existing connection! (#0) with proxy 127.0.0.1)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#0))
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (Closing connection 0)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.16-11.44.17:326][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (TCP_NODELAY set)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#1))
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (allocate connect buffer!)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (CONNECT phase completed!)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (ALPN, offering http/1.1)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (SSL re-using session ID)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (CONNECT phase completed!)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (Closing connection 1)
+[2025.04.16-11.44.58:226][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#2))
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.45.58:281][771]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 2)
+[2025.04.16-11.45.58:612][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#3))
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 3)
+[2025.04.16-11.46.58:258][950]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#4))
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.47.58:249][129]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 4)
+[2025.04.16-11.47.58:587][130]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#5))
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 5)
+[2025.04.16-11.48.58:231][308]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.49.58:199][487]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#6))
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.49.58:200][487]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 6)
+[2025.04.16-11.49.58:539][488]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#7))
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 7)
+[2025.04.16-11.50.58:145][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: request failed, libcurl error: 35 (SSL connect error)
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#8))
+[2025.04.16-11.51.58:046][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 4 (allocate connect buffer!)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 7 (CONNECT phase completed!)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 10 (SSL re-using session ID)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 12 (CONNECT phase completed!)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 13 (CONNECT phase completed!)
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 8)
+[2025.04.16-11.51.58:378][846]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
