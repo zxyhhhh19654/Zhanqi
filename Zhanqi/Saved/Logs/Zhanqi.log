@@ -1191,3 +1191,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
 [2025.04.16-11.51.58:047][845]LogHttp: Warning: 0000021D0E449D00: libcurl info message cache 15 (Closing connection 8)
 [2025.04.16-11.51.58:378][846]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: request failed, libcurl error: 0 (No error)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d1f85d5a0 [can pipeline])
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 1 (Re-using existing connection! (#9) with proxy 127.0.0.1)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 10090 (#9))
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 8 (Closing connection 9)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.16-11.56.15:000][867]LogHttp: Warning: 0000021D754F9D00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.16-11.56.15:339][868]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2116F6CB-43EC-E009-DB0E-488B440DAF39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ea44e384e15e8337912c3a7545b3a98%7Cbaf2a70557eb4e05b10718156cfb2a49%7C6cc1a14b-8c59-489b-a24d-c26dff7ff338&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.16-11.57.02:433][285]Cmd: TRANSACTION UNDO
+[2025.04.16-11.57.02:439][285]LogEditorTransaction: Undo 编辑游戏默认地图
+[2025.04.16-11.57.05:288][441]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.04.16-11.57.05:300][441]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.04.16-11.57.20:819][373]LogContentBrowser: Attempting asset rename: 新建文件夹 -> BluePrints
+[2025.04.16-11.57.20:819][373]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.04.16-11.57.25:622][654]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.04.16-11.57.25:643][654]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.04.16-11.57.28:229][810]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Core
+[2025.04.16-11.57.28:229][810]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.04.16-11.57.41:357][152]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.04.16-11.57.41:367][152]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.04.16-11.57.44:854][362]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Players
+[2025.04.16-11.57.44:854][362]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.04.16-11.58.02:972][219]Cmd: TRANSACTION UNDO
+[2025.04.16-11.58.02:972][219]LogEditorTransaction: Undo 编辑编辑器开始地图
+[2025.04.16-11.58.09:211][577]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.04.16-11.58.09:237][577]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.04.16-11.58.11:539][716]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Core
+[2025.04.16-11.58.11:540][716]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.04.16-11.58.21:470][296]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.04.16-11.58.21:487][296]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.04.16-11.58.24:440][474]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Player
+[2025.04.16-11.58.24:440][474]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.04.16-11.58.28:400][699]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.16-11.58.30:698][699]LogSlate: Window '选取父类' being destroyed
+[2025.04.16-11.58.30:707][699]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.16-11.58.30:714][699]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.16-11.58.36:050][ 20]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Pawn
+[2025.04.16-11.58.36:062][ 20]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.16-11.58.42:845][188]LogSlate: Window '选取父类' being destroyed
+[2025.04.16-11.58.42:854][188]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.16-11.58.42:863][188]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.16-11.58.48:265][513]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GM
+[2025.04.16-11.58.48:268][513]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.16-11.59.01:962][752]LogSlate: Window '选取父类' being destroyed
+[2025.04.16-11.59.01:970][752]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.16-11.59.01:977][752]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.16-11.59.07:013][ 55]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PC
+[2025.04.16-11.59.07:018][ 55]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.16-11.59.15:891][288]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2025.04.16-11.59.23:501][594]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.16-11.59.23:520][594]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.16-11.59.32:595][924]LogSlate: Window '项目设置' being destroyed
+[2025.04.16-11.59.32:601][924]LogSlate: Window '项目设置' being destroyed
+[2025.04.16-11.59.36:604][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_entry" FILE="../../../../../ue/Zhanqi/Content/Maps/L_entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.16-11.59.36:611][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.16-11.59.36:621][143]LogSavePackage: Moving '../../../../../ue/Zhanqi/Saved/L_entry549C54154BE87C3DC0FBD98B9A855084.tmp' to '../../../../../ue/Zhanqi/Content/Maps/L_entry.umap'
+[2025.04.16-11.59.36:624][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_entry_BuiltData" FILE="../../../../../ue/Zhanqi/Content/Maps/L_entry_BuiltData.uasset" SILENT=true
+[2025.04.16-11.59.36:637][143]LogSavePackage: Moving '../../../../../ue/Zhanqi/Saved/L_entry_BuiltData74C90F5F4D593FE5657886858B9CA676.tmp' to '../../../../../ue/Zhanqi/Content/Maps/L_entry_BuiltData.uasset'
+[2025.04.16-11.59.36:647][143]AssetCheck: New page: 资产保存：多个资产
+[2025.04.16-11.59.36:647][143]LogContentValidation: Display: 正在验证World /Game/Maps/L_entry.L_entry
+[2025.04.16-11.59.36:647][143]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/L_entry_BuiltData.L_entry_BuiltData
